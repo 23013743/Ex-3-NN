@@ -1,6 +1,6 @@
 ### ENTER YOUR NAME: NIRMAL N
 ### ENTER YOUR REGISTER NO.212223240107
-### DATE:03/10/24
+### DATE:24.03.2025
 <H3>EX. NO.3</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
 <h3>Aim:</h3>
